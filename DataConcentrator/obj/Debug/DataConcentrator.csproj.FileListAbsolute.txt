@@ -1,0 +1,15 @@
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\obj\Debug\DataConcentrator.csproj.AssemblyReference.cache
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\obj\Debug\DataConcentrator.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\bin\Debug\DataConcentrator.dll.config
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\bin\Debug\DataConcentrator.dll
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\bin\Debug\DataConcentrator.pdb
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\bin\Debug\EntityFramework.dll
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\bin\Debug\EntityFramework.xml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\obj\Debug\DataConcentrator.csproj.CopyComplete
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\obj\Debug\DataConcentrator.dll
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\obj\Debug\DataConcentrator.pdb
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\bin\Debug\PLCSimulator.dll
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\bin\Debug\PLCSimulator.pdb
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\DataConcentrator\bin\Debug\PLCSimulator.dll.config

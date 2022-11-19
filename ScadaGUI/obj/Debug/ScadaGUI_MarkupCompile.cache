@@ -1,0 +1,20 @@
+﻿ScadaGUI
+
+
+winexe
+C#
+.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\
+ScadaGUI
+none
+false
+DEBUG;TRACE
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\App.xaml
+10685434101
+
+14660887281
+17-274972477
+AddAlarmWindow.xaml;AddAnalogInputWindow.xaml;AddAnalogOutputWindow.xaml;AddDigitalInputWindow.xaml;AddDigitalOutputWindow.xaml;AddOrRemoveAlarmWindow.xaml;ChangeInputDigitalOutputWindow.xaml;MainWindow.xaml;UpdateScanAnalogInput.xaml;UpdateScanWindow.xaml;
+
+False
+

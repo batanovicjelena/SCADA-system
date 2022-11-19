@@ -1,0 +1,43 @@
+﻿<Window x:Class="ScadaGUI.UpdateScanWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScadaGUI"
+        mc:Ignorable="d"
+        Title="UpdateScanWindow" Height="225" Width="400"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Scan"
+               VerticalAlignment="Center"
+               Width="180" Height="40" Margin="40" FontSize="20" 
+               Grid.Column="0" Grid.Row="0"/>
+        <ComboBox SelectedItem="{Binding Path=tempInput.Scan, Mode=TwoWay}" Name="scan"
+                 Grid.Column="1" Grid.Row="0"
+                 Width="180" Height="30"/>
+        <TextBlock Name="scanVal" Text="Required field!" 
+                 Grid.Column="1" Grid.Row="0"
+                 Foreground="Red" Visibility="Hidden"
+                   IsHitTestVisible="False"/>
+        <Button Content="Confirm"
+                Width="150" Height="24"
+                Grid.Column="0" Grid.Row="1"
+                Background="FloralWhite"
+                Click="Confirm_Click"
+                />
+        <Button Content="Close"
+                Width="150" Height="24"
+                Grid.Column="1" Grid.Row="1"
+                Background="FloralWhite"
+                Click="Close_Click"
+                />
+    </Grid>
+</Window>

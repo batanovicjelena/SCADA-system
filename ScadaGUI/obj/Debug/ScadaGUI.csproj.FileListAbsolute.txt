@@ -1,0 +1,90 @@
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\ScadaGUI.exe.config
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\ScadaGUI.exe
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\ScadaGUI.pdb
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.AssemblyReference.cache
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\App.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.cache
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.lref
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\MainWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.g.resources
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.Properties.Resources.resources
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.GenerateResource.cache
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.exe
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.pdb
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\EntityFramework.dll
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\EntityFramework.xml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.CopyComplete
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddDigitalOutputWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\DataConcentrator.dll
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\DataConcentrator.pdb
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\DataConcentrator.dll.config
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddDigitalOutputWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\PLCSimulator.dll
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\PLCSimulator.pdb
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\PLCSimulator.dll.config
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddDigitalInputWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddDigitalInputWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\UpdateScanWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\UpdateScanWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAnalogInputWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAnalogInputWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAlarmWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAlarmWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddOrRemoveAlarmWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddOrRemoveAlarmWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\UpdateScanAnalogInput.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\UpdateScanAnalogInput.baml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ChangeInputDigitalOutputWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ChangeInputDigitalOutputWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAnalogOutputWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAnalogOutputWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\ScadaGUI.exe.config
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\ScadaGUI.exe
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\ScadaGUI.pdb
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\DataConcentrator.dll
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\EntityFramework.dll
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\PLCSimulator.dll
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\DataConcentrator.pdb
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\DataConcentrator.dll.config
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\EntityFramework.xml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\PLCSimulator.pdb
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\bin\Debug\PLCSimulator.dll.config
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.AssemblyReference.cache
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAlarmWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAnalogInputWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAnalogOutputWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddDigitalInputWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddDigitalOutputWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddOrRemoveAlarmWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ChangeInputDigitalOutputWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\UpdateScanAnalogInput.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\UpdateScanWindow.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\App.g.cs
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.cache
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI_MarkupCompile.lref
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAlarmWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAnalogInputWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddAnalogOutputWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddDigitalInputWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddDigitalOutputWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\AddOrRemoveAlarmWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ChangeInputDigitalOutputWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\MainWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\UpdateScanAnalogInput.baml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\UpdateScanWindow.baml
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.g.resources
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.Properties.Resources.resources
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.GenerateResource.cache
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.csproj.CopyComplete
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.exe
+C:\Users\Jelena\Desktop\projekat psnus\projekat psnus\PSNUSproject\ScadaGUI\obj\Debug\ScadaGUI.pdb
